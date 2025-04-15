@@ -1,0 +1,5 @@
+.venv
+_pycache_
+note.txt
+projectinfo.ipynb
+project_guide.ipynb
